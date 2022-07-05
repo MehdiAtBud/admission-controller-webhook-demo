@@ -3,8 +3,8 @@ module github.com/stackrox/admission-controller-webhook-demo
 go 1.18
 
 require (
-	k8s.io/api v0.22.0
-	k8s.io/apimachinery v0.22.0
+	k8s.io/api v0.20.0
+	k8s.io/apimachinery v0.20.0
 )
 
 require (
